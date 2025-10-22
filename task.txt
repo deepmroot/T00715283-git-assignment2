@@ -1,2 +1,2 @@
-FEATURE-PRACTICE version of task
+FINAL resolved line for task
 Second line remains
